@@ -1,0 +1,101 @@
+﻿id_venta,fecha,producto,categoria,precio,cantidad,sucursal,metodo_pago,cliente_frecuente
+1,2026-09-09,Mochila,Accesorios,675.0,6,Centro,Efectivo,Si
+2,2026-09-19,Mochila,Accesorios,825.0,1,Norte,Efectivo,Si
+3,2026-09-20,Teclado,Tecnologia,650.0,5,Centro,Transferencia,Si
+4,2026-09-19,Cable USB,Accesorios,180.0,4,Norte,Efectivo,Si
+5,2026-09-05,Cable USB,Accesorios,180.0,3,Centro,Tarjeta,Si
+6,2026-09-28,Memoria USB,Tecnologia,198.0,3,Norte,Transferencia,No
+7,2026-09-30,Memoria USB,Tecnologia,242.0,1,Norte,Efectivo,No
+8,2026-09-23,Cargador,Accesorios,495.0,2,Centro,Efectivo,Si
+9,2026-09-13,Cuaderno,Papeleria,85.0,1,Norte,Tarjeta,No
+10,2026-09-22,Audifonos,Tecnologia,900.0,2,Norte,Transferencia,Si
+11,2026-09-08,Termo,Accesorios,308.0,6,Centro,Tarjeta,No
+12,2026-09-08,Plumas,Papeleria,45.0,1,Centro,Tarjeta,No
+13,2026-09-29,Cuaderno,Papeleria,85.0,5,Sur,Tarjeta,Si
+14,2026-09-15,Cable USB,Accesorios,180.0,6,Centro,Tarjeta,Si
+15,2026-09-29,Audifonos,Tecnologia,990.0,4,Sur,Tarjeta,No
+16,2026-09-03,Teclado,Tecnologia,715.0,4,Centro,Efectivo,Si
+17,2026-09-03,Termo,Accesorios,280.0,5,Norte,Tarjeta,No
+18,2026-09-22,Cargador,Accesorios,495.0,1,Sur,Efectivo,No
+19,2026-09-14,Cargador,Accesorios,405.0,3,Centro,Tarjeta,Si
+20,2026-09-17,Cargador,Accesorios,495.0,2,Centro,Transferencia,No
+21,2026-09-25,Termo,Accesorios,280.0,3,Centro,Transferencia,Si
+22,2026-09-04,Cargador,Accesorios,450.0,1,Norte,Tarjeta,Si
+23,2026-09-03,Teclado,Tecnologia,715.0,1,Sur,Tarjeta,Si
+24,2026-09-16,Termo,Accesorios,280.0,6,Sur,Efectivo,No
+25,2026-09-25,Cable USB,Accesorios,180.0,5,Sur,Transferencia,Si
+26,2026-09-21,Cargador,Accesorios,450.0,6,Norte,Tarjeta,No
+27,2026-09-11,Teclado,Tecnologia,650.0,1,Centro,Transferencia,Si
+28,2026-09-23,Termo,Accesorios,252.0,1,Sur,Efectivo,Si
+29,2026-09-17,Mouse inalambrico,Tecnologia,350.0,1,Centro,Tarjeta,No
+30,2026-09-16,Teclado,Tecnologia,715.0,5,Centro,Tarjeta,No
+31,2026-09-14,Mouse inalambrico,Tecnologia,315.0,6,Norte,Tarjeta,No
+32,2026-09-13,Cuaderno,Papeleria,76.5,1,Sur,Tarjeta,Si
+33,2026-09-15,Teclado,Tecnologia,650.0,5,Centro,Tarjeta,Si
+34,2026-09-15,Marcadores,Papeleria,120.0,1,Sur,Efectivo,Si
+35,2026-09-06,Mochila,Accesorios,675.0,2,Norte,Tarjeta,No
+36,2026-09-13,Memoria USB,Tecnologia,198.0,2,Centro,Tarjeta,No
+37,2026-09-24,Carpeta,Papeleria,70.0,6,Sur,Transferencia,No
+38,2026-09-02,Teclado,Tecnologia,650.0,2,Sur,Transferencia,Si
+39,2026-09-19,Cargador,Accesorios,405.0,1,Norte,Transferencia,Si
+40,2026-09-20,Mouse inalambrico,Tecnologia,350.0,1,Centro,Transferencia,Si
+41,2026-09-19,Cuaderno,Papeleria,93.5,2,Sur,Efectivo,Si
+42,2026-09-22,Carpeta,Papeleria,70.0,2,Sur,Tarjeta,Si
+43,2026-09-21,Marcadores,Papeleria,120.0,6,Norte,Tarjeta,No
+44,2026-09-19,Mouse inalambrico,Tecnologia,350.0,5,Centro,Efectivo,Si
+45,2026-09-29,Cargador,Accesorios,450.0,3,Centro,Efectivo,No
+46,2026-09-23,Plumas,Papeleria,45.0,5,Norte,Transferencia,Si
+47,2026-09-09,Cargador,Accesorios,405.0,2,Centro,Efectivo,Si
+48,2026-09-23,Carpeta,Papeleria,77.0,2,Norte,Efectivo,No
+49,2026-09-03,Cable USB,Accesorios,180.0,1,Sur,Tarjeta,No
+50,2026-09-21,Mouse inalambrico,Tecnologia,350.0,2,Norte,Efectivo,No
+51,2026-09-04,Cable USB,Accesorios,198.0,1,Centro,Transferencia,Si
+52,2026-09-18,Mochila,Accesorios,750.0,5,Centro,Tarjeta,Si
+53,2026-09-29,Audifonos,Tecnologia,900.0,1,Norte,Efectivo,Si
+54,2026-09-29,Mochila,Accesorios,750.0,5,Norte,Transferencia,Si
+55,2026-09-01,Teclado,Tecnologia,650.0,4,Centro,Transferencia,No
+56,2026-09-26,Plumas,Papeleria,45.0,2,Sur,Efectivo,No
+57,2026-09-27,Memoria USB,Tecnologia,220.0,2,Norte,Tarjeta,No
+58,2026-09-07,Teclado,Tecnologia,585.0,6,Norte,Tarjeta,No
+59,2026-09-17,Audifonos,Tecnologia,900.0,6,Norte,Transferencia,No
+60,2026-09-19,Mouse inalambrico,Tecnologia,350.0,2,Norte,Efectivo,Si
+61,2026-09-26,Cable USB,Accesorios,180.0,6,Norte,Tarjeta,Si
+62,2026-09-23,Plumas,Papeleria,45.0,1,Norte,Efectivo,Si
+63,2026-09-30,Marcadores,Papeleria,108.0,6,Norte,Transferencia,No
+64,2026-09-10,Mochila,Accesorios,750.0,5,Sur,Tarjeta,No
+65,2026-09-07,Carpeta,Papeleria,77.0,2,Norte,Transferencia,No
+66,2026-09-10,Termo,Accesorios,308.0,5,Norte,Transferencia,Si
+67,2026-09-26,Carpeta,Papeleria,70.0,4,Sur,Transferencia,No
+68,2026-09-07,Marcadores,Papeleria,120.0,6,Sur,Tarjeta,Si
+69,2026-09-22,Mochila,Accesorios,750.0,5,Sur,Transferencia,No
+70,2026-09-26,Teclado,Tecnologia,650.0,2,Centro,Efectivo,Si
+71,2026-09-28,Teclado,Tecnologia,650.0,5,Centro,Tarjeta,No
+72,2026-09-13,Termo,Accesorios,280.0,4,Centro,Efectivo,Si
+73,2026-09-26,Memoria USB,Tecnologia,220.0,2,Sur,Transferencia,No
+74,2026-09-05,Teclado,Tecnologia,585.0,4,Norte,Transferencia,No
+75,2026-09-29,Marcadores,Papeleria,132.0,4,Centro,Transferencia,No
+76,2026-09-09,Carpeta,Papeleria,70.0,6,Sur,Tarjeta,Si
+77,2026-09-10,Marcadores,Papeleria,108.0,6,Centro,Tarjeta,No
+78,2026-09-08,Cuaderno,Papeleria,85.0,2,Norte,Transferencia,Si
+79,2026-09-14,Termo,Accesorios,252.0,4,Norte,Transferencia,No
+80,2026-09-13,Cuaderno,Papeleria,85.0,4,Sur,Transferencia,Si
+81,2026-09-12,Cable USB,Accesorios,180.0,1,Norte,Tarjeta,No
+82,2026-09-09,Termo,Accesorios,280.0,2,Norte,Tarjeta,Si
+83,2026-09-06,Carpeta,Papeleria,70.0,6,Norte,Efectivo,Si
+84,2026-09-14,Cuaderno,Papeleria,76.5,6,Centro,Tarjeta,Si
+85,2026-09-07,Audifonos,Tecnologia,900.0,3,Norte,Tarjeta,No
+86,2026-09-27,Carpeta,Papeleria,70.0,3,Centro,Tarjeta,Si
+87,2026-09-21,Mochila,Accesorios,750.0,2,Centro,Transferencia,Si
+88,2026-09-20,Teclado,Tecnologia,650.0,1,Centro,Efectivo,Si
+89,2026-09-15,Cuaderno,Papeleria,93.5,2,Sur,Tarjeta,No
+90,2026-09-04,Mouse inalambrico,Tecnologia,350.0,3,Sur,Efectivo,No
+91,2026-09-07,Cable USB,Accesorios,180.0,6,Centro,Transferencia,Si
+92,2026-09-26,Audifonos,Tecnologia,990.0,1,Sur,Efectivo,No
+93,2026-09-17,Cable USB,Accesorios,180.0,1,Sur,Tarjeta,Si
+94,2026-09-12,Marcadores,Papeleria,108.0,4,Sur,Tarjeta,Si
+95,2026-09-09,Plumas,Papeleria,49.5,6,Sur,Transferencia,No
+96,2026-09-11,Marcadores,Papeleria,132.0,3,Centro,Efectivo,No
+97,2026-09-20,Plumas,Papeleria,45.0,5,Sur,Tarjeta,No
+98,2026-09-16,Memoria USB,Tecnologia,220.0,2,Centro,Tarjeta,No
+99,2026-09-29,Carpeta,Papeleria,77.0,6,Norte,Transferencia,Si
+100,2026-09-24,Termo,Accesorios,252.0,2,Norte,Tarjeta,Si

@@ -1,0 +1,236 @@
+id_venta,fecha,producto,categoria,cantidad,precio_unitario,sucursal,metodo_pago,edad_cliente,rango_edad,total_venta
+V0001,2026-04-19,Termo,Accesorios,8,280,Centro,Tarjeta,57,Adulto,2240
+V0002,2026-01-27,Funda laptop,Accesorios,2,340,Centro,Efectivo,64,Adulto mayor,680
+V0003,2026-09-04,Funda laptop,Accesorios,3,340,Centro,Tarjeta,49,Adulto,1020
+V0004,2026-01-05,Mochila,Accesorios,3,720,Sur,Transferencia,65,Adulto mayor,2160
+V0005,2026-07-25,Marcadores,Papeleria,8,120,Sur,Transferencia,48,Adulto,960
+V0006,2026-08-13,Marcadores,Papeleria,5,120,Centro,Efectivo,62,Adulto mayor,600
+V0007,2026-02-20,Plumas,Papeleria,8,15,Sur,Efectivo,48,Adulto,120
+V0008,2026-03-17,Termo,Accesorios,7,260,Centro,Tarjeta,31,Adulto,1820
+V0009,2026-04-02,Plumas,Papeleria,2,65,Norte,Transferencia,20,Joven,130
+V0010,2026-03-17,Desconocido,Tecnologia,3,3230,Sur,Tarjeta,43,Adulto,9690
+V0011,2026-09-22,Mouse,Tecnologia,1,300,Sur,Tarjeta,30,Adulto,300
+V0012,2026-02-18,Termo,Accesorios,7,330,Centro,Tarjeta,58,Adulto,2310
+V0013,2026-05-22,Termo,Accesorios,6,330,Sur,Tarjeta,42,Adulto,1980
+V0014,2026-04-08,Monitor,Tecnologia,5,3200,Sur,Tarjeta,65,Adulto mayor,16000
+V0015,2026-05-23,Funda laptop,Accesorios,6,340,Sur,Transferencia,66,Adulto mayor,2040
+V0016,2026-05-07,Funda laptop,Accesorios,6,340,Centro,Efectivo,32,Adulto,2040
+V0017,2026-02-11,Mochila,Accesorios,2,770,Norte,Tarjeta,42,Adulto,1540
+V0018,2026-03-08,Marcadores,Papeleria,6,280,Sur,Efectivo,60,Adulto mayor,1680
+V0019,2026-07-22,Carpeta,Papeleria,6,75,Sur,Transferencia,30,Adulto,450
+V0020,2026-09-12,Audifonos,Tecnologia,2,830,Norte,Efectivo,51,Adulto,1660
+V0021,2026-04-23,Funda laptop,Accesorios,3,340,Sur,Transferencia,53,Adulto,1020
+V0022,2026-01-27,Audifonos,Tecnologia,1,850,Sur,Tarjeta,99,Adulto mayor,850
+V0023,2026-09-08,Funda laptop,Accesorios,3,340,Norte,Transferencia,55,Adulto,1020
+V0024,2026-09-28,Mouse,Tecnologia,7,280,Norte,Tarjeta,28,Joven,1960
+V0025,2026-03-23,Plumas,Papeleria,5,85,Sur,Tarjeta,52,Adulto,425
+V0026,2026-05-01,Cuaderno,Papeleria,6,95,Centro,Efectivo,67,Adulto mayor,570
+V0027,2026-05-06,Audifonos,Tecnologia,8,900,Norte,Tarjeta,22,Joven,7200
+V0028,2026-01-18,Mouse,Tecnologia,2,300,Centro,Efectivo,19,Joven,600
+V0029,2026-05-15,Cuaderno,Papeleria,6,65,Sur,Efectivo,59,Adulto,390
+V0030,2026-06-16,Funda laptop,Accesorios,8,340,Centro,Tarjeta,44,Adulto,2720
+V0031,2026-09-22,Carpeta,Papeleria,8,145,Centro,Transferencia,36,Adulto,1160
+V0032,2026-05-09,Teclado,Tecnologia,6,510,Centro,Efectivo,66,Adulto mayor,3060
+V0033,2026-08-12,Marcadores,Papeleria,7,120,Norte,Transferencia,19,Joven,840
+V0034,2026-04-15,Carpeta,Papeleria,7,95,Norte,Transferencia,48,Adulto,665
+V0035,2026-05-21,Monitor,Tecnologia,2,3230,Sur,Efectivo,42,Adulto,6460
+V0036,2026-08-24,Memoria USB,Tecnologia,1,220,Sur,Efectivo,38,Adulto,220
+V0037,2026-08-04,Mouse,Tecnologia,5,250,Sur,Transferencia,66,Adulto mayor,1250
+V0038,2026-09-03,Termo,Accesorios,1,280,Sur,Transferencia,42,Adulto,280
+V0039,2026-03-13,Termo,Accesorios,8,280,Sur,Efectivo,27,Joven,2240
+V0040,2026-09-11,Funda laptop,Accesorios,2,390,Norte,Efectivo,37,Adulto,780
+V0041,2026-08-13,Monitor,Tecnologia,1,3250,Norte,Transferencia,54,Adulto,3250
+V0042,2026-08-04,Mouse,Tecnologia,7,280,Centro,Tarjeta,36,Adulto,1960
+V0043,2026-01-03,Funda laptop,Accesorios,4,340,Centro,Transferencia,36,Adulto,1360
+V0045,2026-02-22,Marcadores,Papeleria,6,170,Norte,Transferencia,31,Adulto,1020
+V0046,2026-06-12,Termo,Accesorios,8,280,Sur,Tarjeta,61,Adulto mayor,2240
+V0047,2026-08-26,Funda laptop,Accesorios,5,340,Sur,Efectivo,19,Joven,1700
+V0048,2026-08-16,Teclado,Tecnologia,3,530,Norte,Efectivo,26,Joven,1590
+V0049,2026-03-24,Audifonos,Tecnologia,1,900,Sur,Tarjeta,61,Adulto mayor,900
+V0050,2026-09-02,Audifonos,Tecnologia,3,880,Norte,Transferencia,29,Joven,2640
+V0051,2026-06-22,Memoria USB,Tecnologia,8,190,Centro,Efectivo,70,Adulto mayor,1520
+V0053,2026-08-06,Cuaderno,Papeleria,8,45,Centro,Efectivo,45,Adulto,360
+V0054,2026-07-12,Marcadores,Papeleria,2,280,Sur,Efectivo,65,Adulto mayor,560
+V0055,2026-08-15,Termo,Accesorios,3,280,Sur,Tarjeta,30,Adulto,840
+V0056,2026-06-05,Mochila,Accesorios,3,720,Norte,Transferencia,60,Adulto mayor,2160
+V0057,2026-07-11,Audifonos,Tecnologia,7,900,Sur,Transferencia,25,Joven,6300
+V0058,2026-07-18,Mochila,Accesorios,1,720,Sur,Efectivo,27,Joven,720
+V0059,2026-09-06,Audifonos,Tecnologia,5,880,Norte,Efectivo,49,Adulto,4400
+V0060,2026-09-26,Funda laptop,Accesorios,6,390,Centro,Transferencia,51,Adulto,2340
+V0061,2026-07-01,Audifonos,Tecnologia,1,850,Centro,Tarjeta,69,Adulto mayor,850
+V0062,2026-08-28,Mochila,Accesorios,1,700,Norte,tarjeta ,56,Adulto,700
+V0063,2026-06-04,Termo,Accesorios,3,260,Norte,Tarjeta,19,Joven,780
+V0064,2026-06-12,Carpeta,Papeleria,6,95,Norte,Efectivo,43,Adulto,570
+V0065,2026-09-22,Audifonos,Tecnologia,8,900,Centro,Transferencia,22,Joven,7200
+V0066,2026-07-28,Marcadores,Papeleria,3,150,Norte,Tarjeta,25,Joven,450
+V0067,2026-01-16,Mochila,Accesorios,2,720,Centro,Tarjeta,45,Adulto,1440
+V0068,2026-08-24,Memoria USB,Papeleria,4,190,Sur,Tarjeta,51,Adulto,760
+V0069,2026-06-26,Carpeta,Papeleria,5,125,Sur,Tarjeta,46,Adulto,625
+V0070,2026-08-16,Mouse,Tecnologia,4,280,Sur,Tarjeta,27,Joven,1120
+V0071,2026-07-15,Teclado,Tecnologia,5,510,Centro,Efectivo,45,Adulto,2550
+V0072,2026-03-05,Memoria USB,Tecnologia,3,240,Norte,Transferencia,40,Adulto,720
+V0073,2026-03-08,Plumas,Papeleria,5,35,Norte,Efectivo,21,Joven,175
+V0074,2026-05-15,Termo,Accesorios,1,280,Centro,Tarjeta,22,Joven,280
+V0075,2026-06-09,Carpeta,Papeleria,2,75,Centro,Transferencia,49,Adulto,150
+V0076,2026-07-05,Audifonos,Tecnologia,5,850,Centro,Efectivo,41,Adulto,4250
+V0077,2026-02-22,Mochila,Accesorios,2,720,Sur,Transferencia,28,Joven,1440
+V0078,2026-07-27,Memoria USB,Tecnologia,3,220,Centro,Tarjeta,65,Adulto mayor,660
+V0079,2026-08-03,Termo,Accesorios,8,280,Centro,Efectivo,62,Adulto mayor,2240
+V0080,2026-03-01,Cuaderno,Papeleria,7,45,Sur,Tarjeta,65,Adulto mayor,315
+V0081,2026-06-18,Marcadores,Papeleria,1,170,Sur,Transferencia,69,Adulto mayor,170
+V0082,2026-05-21,Mochila,Accesorios,5,700,Sur,Tarjeta,37,Adulto,3500
+V0083,2026-03-16,Carpeta,Papeleria,5,75,Centro,Tarjeta,63,Adulto mayor,375
+V0084,2026-05-17,Monitor,Tecnologia,7,3180,Norte,Transferencia,50,Adulto,22260
+V0085,2026-06-03,Marcadores,Papeleria,7,120,Sur,Transferencia,55,Adulto,840
+V0086,2026-08-25,Audifonos,Tecnologia,5,850,Centro,Transferencia,50,Adulto,4250
+V0087,2026-07-07,Plumas,Papeleria,1,85,Centro,Transferencia,23,Joven,85
+V0088,2026-08-14,Carpeta,Papeleria,6,75,Norte,Tarjeta,22,Joven,450
+V0089,2026-01-04,Funda laptop,Accesorios,5,320,Centro,Efectivo,21,Joven,1600
+V0090,2026-03-10,Audifonos,Tecnologia,6,280,Sur,Efectivo,27,Joven,1680
+V0091,2026-06-04,Termo,Accesorios,6,330,Sur,Tarjeta,20,Joven,1980
+V0092,2026-05-28,Monitor,Tecnologia,2,3200,Centro,Efectivo,53,Adulto,6400
+V0093,2026-08-19,Termo,Accesorios,1,310,Norte,Tarjeta,44,Adulto,310
+V0094,2026-05-28,Plumas,Papeleria,8,15,Centro,Tarjeta,46,Adulto,120
+V0095,2026-05-24,Termo,Accesorios,8,260,Sur,Transferencia,26,Joven,2080
+V0096,2026-06-25,Marcadores,Papeleria,4,170,Centro,Transferencia,39,Adulto,680
+V0097,2026-03-13,Plumas,Papeleria,7,85,Norte,Transferencia,46,Adulto,595
+V0098,2026-07-06,Memoria USB,Tecnologia,1,280,Centro,Tarjeta,56,Adulto,280
+V0099,2026-02-18,Termo,Accesorios,2,280,Sur,Efectivo,69,Adulto mayor,560
+V0100,2026-02-27,Plumas,Papeleria,6,15,Norte,Efectivo,41,Adulto,90
+V0101,2026-05-01,Desconocido,Papeleria,3,65,Centro,Tarjeta,41,Adulto,195
+V0102,2026-08-24,Mochila,Accesorios,2,770,Sur,Tarjeta,43,Adulto,1540
+V0103,2026-09-23,Teclado,Tecnologia,1,480,Norte,Tarjeta,25,Joven,480
+V0104,2026-06-26,Carpeta,Papeleria,2,125,Norte,Efectivo,44,Adulto,250
+V0105,2026-03-04,Marcadores,Papeleria,6,100,Sur,Efectivo,37,Adulto,600
+V0106,2026-09-13,Funda laptop,Accesorios,6,320,Centro,Efectivo,24,Joven,1920
+V0107,2026-08-19,Plumas,Papeleria,8,35,Norte,Tarjeta,19,Joven,280
+V0108,2026-02-06,Termo,Accesorios,1,260,Sur,Tarjeta,67,Adulto mayor,260
+V0109,2026-09-18,Cuaderno,Papeleria,4,65,Norte,Transferencia,27,Joven,260
+V0110,2026-06-11,Mochila,Accesorios,1,750,Centro,Tarjeta,25,Joven,750
+V0111,2026-04-11,Monitor,Tecnologia,8,3180,Norte,Tarjeta,49,Adulto,25440
+V0112,2026-02-28,Memoria USB,Tecnologia,4,170,Sur,Tarjeta,33,Adulto,680
+V0113,2026-03-02,Teclado,Tecnologia,8,480,Centro,Efectivo,53,Adulto,3840
+V0114,2026-04-28,Audifonos,Tecnologia,2,900,Centro,Tarjeta,39,Adulto,1800
+V0115,2026-01-18,Termo,Accesorios,7,330,Sur,Tarjeta,57,Adulto,2310
+V0116,2026-08-11,Monitor,Tecnologia,1,3180,Centro,Efectivo,18,Joven,3180
+V0117,2026-06-04,Termo,Accesorios,3,280,Norte,Tarjeta,31,Adulto,840
+V0118,2026-07-25,Marcadores,Papeleria,6,120,Sur,Tarjeta,60,Adulto mayor,720
+V0119,2026-09-15,Termo,Accesorios,8,280,Norte,Transferencia,36,Adulto,2240
+V0120,2026-06-25,Mochila,Accesorios,6,720,Norte,Tarjeta,28,Joven,4320
+V0121,2026-02-23,Cuaderno,Papeleria,7,115,Norte,Efectivo,38,Adulto,805
+V0122,2026-09-13,Monitor,Tecnologia,4,3250,Sur,Transferencia,69,Adulto mayor,13000
+V0123,2026-07-12,Plumas,Papeleria,3,65,Centro,Tarjeta,18,Joven,195
+V0124,2026-07-11,Mochila,Accesorios,5,770,Norte,Transferencia,61,Adulto mayor,3850
+V0125,2026-04-06,Monitor,Tecnologia,3,3250,Sur,Transferencia,32,Adulto,9750
+V0126,2026-01-11,Monitor,Tecnologia,3,3250,Sur,Transferencia,28,Joven,9750
+V0127,2026-03-07,Funda laptop,Accesorios,2,390,Centro,Transferencia,25,Joven,780
+V0128,2026-02-22,Mouse,Tecnologia,4,300,Sur,Efectivo,68,Adulto mayor,1200
+V0129,2026-05-12,Marcadores,Papeleria,5,100,Sur,Efectivo,52,Adulto,500
+V0130,2026-07-20,Marcadores,Papeleria,3,120,Norte,Transferencia,37,Adulto,360
+V0131,2026-03-15,Termo,Accesorios,8,330,Sur,Tarjeta,60,Adulto mayor,2640
+V0132,2026-04-21,Mochila,Accesorios,6,770,Centro,Tarjeta,35,Adulto,4620
+V0133,2026-05-02,Termo,Accesorios,7,280,Centro,Efectivo,23,Joven,1960
+V0134,2026-04-27,Mouse,Tecnologia,3,300,Sur,Tarjeta,68,Adulto mayor,900
+V0135,2026-01-01,Plumas,Papeleria,8,35,Norte,Efectivo,99,Adulto mayor,280
+V0136,2026-02-18,Teclado,Tecnologia,8,480,Sur,Transferencia,63,Adulto mayor,3840
+V0137,2026-05-15,Marcadores,Papeleria,1,150,Centro,Tarjeta,55,Adulto,150
+V0138,2026-07-01,Memoria USB,Tecnologia,5,170,Centro,Efectivo,22,Joven,850
+V0139,2026-08-04,Cuaderno,Papeleria,2,45,Sur,Efectivo,36,Adulto,90
+V0141,2026-01-11,Mochila,Accesorios,6,720,Norte,Transferencia,20,Joven,4320
+V0142,2026-01-27,Plumas,Papeleria,1,15,Norte,Tarjeta,37,Adulto,15
+V0143,2026-06-27,Memoria USB,Tecnologia,5,280,Norte,Transferencia,28,Joven,1400
+V0144,2026-04-22,Marcadores,Papeleria,5,150,Centro,Efectivo,68,Adulto mayor,750
+V0145,2026-04-12,Mochila,Accesorios,4,700,Centro,Transferencia,34,Adulto,2800
+V0147,2026-06-14,Marcadores,Papeleria,3,100,Centro,Tarjeta,35,Adulto,300
+V0148,2026-07-16,Mochila,Accesorios,4,700,Centro,Tarjeta,42,Adulto,2800
+V0149,2026-01-08,Audifonos,Tecnologia,7,880,Sur,Tarjeta,41,Adulto,6160
+V0150,2026-07-27,Mochila,Accesorios,6,750,Sur,Efectivo,26,Joven,4500
+V0151,2026-07-06,Funda laptop,Accesorios,8,320,Centro,Transferencia,21,Joven,2560
+V0152,2026-02-20,Mochila,Accesorios,2,720,Centro,tarjeta ,52,Adulto,1440
+V0153,2026-05-17,Memoria USB,Tecnologia,3,240,Norte,Transferencia,29,Joven,720
+V0154,2026-09-19,Termo,Accesorios,5,280,Norte,Tarjeta,19,Joven,1400
+V0155,2026-08-26,Funda laptop,Accesorios,7,340,Norte,Tarjeta,47,Adulto,2380
+V0156,2026-08-20,Funda laptop,Accesorios,2,320,Centro,Transferencia,27,Joven,640
+V0157,2026-01-28,Cuaderno,Papeleria,1,115,Norte,Tarjeta,54,Adulto,115
+V0158,2026-07-13,Mochila,Accesorios,6,700,Norte,Transferencia,47,Adulto,4200
+V0159,2026-06-22,Memoria USB,Tecnologia,3,190,Centro,Tarjeta,29,Joven,570
+V0160,2026-03-15,Termo,Accesorios,2,280,Sur,Tarjeta,18,Joven,560
+V0161,2026-01-23,Cuaderno,Papeleria,3,45,Norte,Transferencia,18,Joven,135
+V0162,2026-07-15,Marcadores,Papeleria,5,100,Centro,Transferencia,47,Adulto,500
+V0163,2026-09-25,Termo,Accesorios,6,280,Sur,Tarjeta,18,Joven,1680
+V0164,2026-05-24,Plumas,Papeleria,4,85,Centro,Transferencia,40,Adulto,340
+V0165,2026-06-07,Plumas,Papeleria,5,85,Centro,Transferencia,62,Adulto mayor,425
+V0166,2026-07-25,Funda laptop,Accesorios,3,320,Sur,Transferencia,51,Adulto,960
+V0167,2026-02-22,Funda laptop,Accesorios,8,340,Centro,Efectivo,46,Adulto,2720
+V0168,2026-09-21,Teclado,Tecnologia,4,530,Norte,Tarjeta,40,Adulto,2120
+V0169,2026-09-14,Mouse,Tecnologia,1,230,Sur,Transferencia,63,Adulto mayor,230
+V0170,2026-09-17,Mochila,Accesorios,3,770,Norte,Transferencia,44,Adulto,2310
+V0171,2026-03-12,Mochila,Accesorios,5,700,Norte,Transferencia,60,Adulto mayor,3500
+V0172,2026-03-20,Termo,Accesorios,6,260,Sur,Tarjeta,18,Joven,1560
+V0173,2026-03-03,Termo,Accesorios,7,310,Sur,Tarjeta,65,Adulto mayor,2170
+V0174,2026-08-20,Plumas,Papeleria,5,85,Sur,Efectivo,48,Adulto,425
+V0175,2026-09-06,Mochila,Accesorios,4,700,Norte,Tarjeta,20,Joven,2800
+V0176,2026-06-02,Cuaderno,Papeleria,5,115,Norte,Transferencia,61,Adulto mayor,575
+V0177,2026-08-08,Mouse,Tecnologia,8,300,Sur,Transferencia,47,Adulto,2400
+V0178,2026-06-05,Mochila,Accesorios,5,720,Sur,Efectivo,34,Adulto,3600
+V0179,2026-06-06,Audifonos,Tecnologia,1,880,Centro,Efectivo,41,Adulto,880
+V0180,2026-06-10,Cuaderno,Papeleria,5,65,Norte,Transferencia,30,Adulto,325
+V0181,2026-02-12,Teclado,Tecnologia,7,480,Centro,Transferencia,53,Adulto,3360
+V0182,2026-09-15,Mouse,Tecnologia,5,230,Centro,Transferencia,61,Adulto mayor,1150
+V0183,2026-01-01,Plumas,Papeleria,1,65,Centro,Tarjeta,44,Adulto,65
+V0184,2026-05-02,Memoria USB,Tecnologia,3,220,Centro,Tarjeta,67,Adulto mayor,660
+V0185,2026-07-16,Carpeta,Papeleria,1,95,Norte,Tarjeta,65,Adulto mayor,95
+V0186,2026-04-03,Termo,Accesorios,1,260,Centro,Tarjeta,48,Adulto,260
+V0187,2026-09-10,Monitor,Tecnologia,1,3200,Norte,Transferencia,31,Adulto,3200
+V0188,2026-08-19,Cuaderno,Papeleria,4,95,Centro,Tarjeta,24,Joven,380
+V0189,2026-05-27,Cuaderno,Papeleria,1,65,Norte,Efectivo,21,Joven,65
+V0190,2026-04-01,Cuaderno,Papeleria,6,115,Centro,Tarjeta,56,Adulto,690
+V0191,2026-08-18,Plumas,Papeleria,4,280,Norte,Tarjeta,49,Adulto,1120
+V0192,2026-01-27,Mochila,Accesorios,8,770,Norte,Efectivo,50,Adulto,6160
+V0193,2026-06-06,Mochila,Accesorios,2,750,Sur,Efectivo,53,Adulto,1500
+V0194,2026-01-28,Termo,Accesorios,3,260,Sur,Tarjeta,22,Joven,780
+V0195,2026-06-21,Termo,Accesorios,2,280,Norte,Transferencia,46,Adulto,560
+V0196,2026-08-13,Carpeta,Papeleria,7,95,Norte,Tarjeta,70,Adulto mayor,665
+V0197,2026-02-24,Mouse,Tecnologia,5,230,Sur,Efectivo,64,Adulto mayor,1150
+V0198,2026-06-01,Carpeta,Papeleria,6,95,Norte,Transferencia,49,Adulto,570
+V0199,2026-05-24,Monitor,Tecnologia,2,3180,Sur,Tarjeta,37,Adulto,6360
+V0200,2026-06-03,Termo,Accesorios,3,280,Norte,Efectivo,65,Adulto mayor,840
+V0201,2026-07-03,Funda laptop,Accesorios,7,370,Norte,Transferencia,47,Adulto,2590
+V0202,2026-09-11,Mochila,Accesorios,6,720,Sur,Transferencia,44,Adulto,4320
+V0203,2026-06-02,Audifonos,Tecnologia,7,850,Centro,Tarjeta,29,Joven,5950
+V0204,2026-06-11,Marcadores,Papeleria,7,100,Sur,Transferencia,27,Joven,700
+V0205,2026-01-26,Termo,Accesorios,6,330,Norte,Transferencia,44,Adulto,1980
+V0206,2026-02-26,Termo,Accesorios,8,280,Centro,Tarjeta,46,Adulto,2240
+V0207,2026-05-08,Carpeta,Papeleria,6,95,Norte,Tarjeta,62,Adulto mayor,570
+V0208,2026-07-17,Audifonos,Tecnologia,2,830,Norte,Tarjeta,53,Adulto,1660
+V0209,2026-06-06,Cuaderno,Papeleria,8,65,Sur,Transferencia,34,Adulto,520
+V0210,2026-03-20,Marcadores,Papeleria,4,170,Centro,Transferencia,44,Adulto,680
+V0211,2026-04-28,Monitor,Tecnologia,6,3230,Centro,Tarjeta,47,Adulto,19380
+V0212,2026-04-03,Cuaderno,Papeleria,6,115,Sur,Efectivo,67,Adulto mayor,690
+V0213,2026-09-04,Memoria USB,Tecnologia,6,190,Centro,Efectivo,39,Adulto,1140
+V0214,2026-08-09,Plumas,Papeleria,3,35,Norte,Transferencia,31,Adulto,105
+V0215,2026-04-08,Mochila,Accesorios,3,720,Centro,Tarjeta,31,Adulto,2160
+V0216,2026-08-21,Monitor,Tecnologia,3,3230,Centro,Efectivo,55,Adulto,9690
+V0217,2026-05-28,Marcadores,Papeleria,1,120,Norte,Tarjeta,44,Adulto,120
+V0219,2026-06-14,Memoria USB,Tecnologia,2,190,Centro,Transferencia,53,Adulto,380
+V0220,2026-08-26,Termo,Accesorios,2,310,Centro,Tarjeta,38,Adulto,620
+V0221,2026-01-27,Teclado,Tecnologia,1,460,Norte,Efectivo,55,Adulto,460
+V0222,2026-06-26,Carpeta,Papeleria,5,280,Norte,Efectivo,69,Adulto mayor,1400
+V0223,2026-06-13,Mouse,Tecnologia,6,300,Sur,Tarjeta,37,Adulto,1800
+V0224,2026-04-09,Audifonos,Tecnologia,7,900,Norte,Efectivo,63,Adulto mayor,6300
+V0225,2026-01-15,Monitor,Tecnologia,2,3180,Centro,Efectivo,60,Adulto mayor,6360
+V0226,2026-01-05,Funda laptop,Accesorios,6,320,Sur,Transferencia,66,Adulto mayor,1920
+V0227,2026-06-08,Memoria USB,Tecnologia,4,190,Norte,Tarjeta,38,Adulto,760
+V0228,2026-05-09,Carpeta,Papeleria,8,75,Centro,Transferencia,68,Adulto mayor,600
+V0229,2026-03-08,Audifonos,Tecnologia,4,900,Norte,Transferencia,61,Adulto mayor,3600
+V0230,2026-06-12,Plumas,Papeleria,4,35,Sur,Transferencia,44,Adulto,140
+V0231,2026-09-25,Termo,Accesorios,5,260,Centro,Tarjeta,27,Joven,1300
+V0232,2026-01-10,Cuaderno,Papeleria,5,115,Sur,Transferencia,22,Joven,575
+V0233,2026-04-19,Funda laptop,Accesorios,7,340,Norte,Transferencia,42,Adulto,2380
+V0234,2026-03-25,Termo,Accesorios,6,310,Norte,Tarjeta,38,Adulto,1860
+V0235,2026-06-03,Marcadores,Papeleria,5,100,Sur,Transferencia,56,Adulto,500
+V0236,2026-05-17,Mouse,Tecnologia,8,230,Norte,Tarjeta,30,Adulto,1840
+V0237,2026-01-25,Marcadores,Papeleria,7,170,Centro,Transferencia,32,Adulto,1190
+V0238,2026-07-22,Teclado,Tecnologia,1,460,Centro,Efectivo,18,Joven,460
+V0239,2026-04-04,Mouse,Tecnologia,7,230,Sur,Tarjeta,58,Adulto,1610
+V0240,2026-02-14,Funda laptop,Accesorios,2,340,Norte,Efectivo,25,Joven,680
